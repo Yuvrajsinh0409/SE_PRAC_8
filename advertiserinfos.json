@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "64636aaf5b6e6566f9554650"
+  },
+  "username": "Aryaan Rabara",
+  "password": "$2b$10$HncEUuuXQDqbaJpc0I8eYO7GQyhmaeYbr2MK06uQhEhmSmXQNyLzu",
+  "email": "aryaanrabara0603@gmail.com",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646865bcd15c6068eae2c8d4"
+  },
+  "username": "pankajsakariya",
+  "password": "$2b$10$iZxosFxbI6XxiUcl9QlY4.teW9RTQh83XBq9Kk5vg9DFLll.xFELW",
+  "email": "pankaj@srashtasoft.com",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468a8805b06989d48d68016"
+  },
+  "username": "Harsh",
+  "password": "$2b$10$Sy26v3Q2AFDNrhJGHVLZIeX.g8U27Tn.II/XaW3XD2HjNnv7P8WE2",
+  "email": "hcrana2003.cr@gmail.com",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b464753ff0bc1a1e1b551"
+  },
+  "username": "Aryan",
+  "password": "$2b$10$j4FRR6iHjXPVrrEKbybwyepb93uU.pvdTnqSbI3bJ35RrVCPE1li2",
+  "email": "patelaryan0914@gmail.com",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b48bb94c8b309a8deab97"
+  },
+  "username": "Manav_16",
+  "password": "$2b$10$Iqvxhjman26KUw/lPL5P6ecPab2o5EuGfyEKsn8TTT6KvXh.iNvx6",
+  "email": "21ce097@charusat.edu.in",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646bbaa11ef12ba01ac7d148"
+  },
+  "username": "Yuvrajsinh",
+  "password": "$2b$10$wEC/8RTdqr7izmYNlE5b.O76bUBcpn82PPF32X5fl5aFkw/AU4gB2",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646cb75d950a5747f0d70e57"
+  },
+  "username": "Harsh_Rana",
+  "password": "$2b$10$.Y1Ys4PkRLLkqjY90ICMjeoZY3keasa4rmneFjpvngaoLFPy5ekre",
+  "email": "hcr2003.cr@gmail.com",
+  "profileImage": "test.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f47102dd0fb72a3d2a77a"
+  },
+  "username": "Manav",
+  "password": "$2b$10$ZeQLD02/eXuOMyEV3Xy72.9Sy3VKPa18rQqPWEyiMFVk5oIimxvfu",
+  "email": "20manavpatel@gmail.com",
+  "profileImage": "test.png",
+  "__v": 0
+}]

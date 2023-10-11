@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "64637c3d027b522396e67543"
+  },
+  "username": "Aryaan_Rabara",
+  "password": "$2b$10$cjABVasEn6VG97.Ay5SZIuPrHZyDuoik7koIXjViZfeTeKAmWLOGi",
+  "email": "aryaanrabara0603@gmail.com"
+},{
+  "_id": {
+    "$oid": "64660d230018677bc25acd59"
+  },
+  "username": "Adhive@amd",
+  "password": "$2b$10$9xTBbbQhgA1BH2mb9hunBOt9O9NK6fYiHmMawhNelAhUiPOBuFjr6",
+  "email": "adhiveamd@gmail.com"
+}]
